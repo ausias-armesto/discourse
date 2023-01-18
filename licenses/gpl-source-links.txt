@@ -1,0 +1,1 @@
+discourse-2.8.13,GPL2,git+https://github.com/discourse/discourse#refs/tags/v2.8.13
